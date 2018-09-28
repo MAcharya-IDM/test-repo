@@ -1,0 +1,1 @@
+Created new file from gitBash. Using command "touch newReadMe.md"
